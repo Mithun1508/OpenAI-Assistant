@@ -1,5 +1,8 @@
 ## OpenAI-Assistant
 
+![Screenshot 2023-04-21 090017](https://user-images.githubusercontent.com/93249038/233534497-0319d00f-82c5-4d0d-a2a5-c81b88b4ed1d.png)
+
+
 A minimalist assistant that answers any question.
 It can access the internet and use developed AI to get answers.
 Powered by OpenAI. Credits to @ZacharyWitten for the original functions.
